@@ -1,0 +1,82 @@
+<settings>	
+	<themeDir>C:\Program Files\Hedgewars 0.9.22</themeDir>
+	
+	
+	<terrain>
+		<landTex>Data\Themes\Nature\LandTex.png</landTex>
+		<landBackTex>Data\Themes\Nature\LandBackTex.png</landBackTex>
+		<border>Data\Themes\Nature\Border.png</border>
+		<border>176, 51, 0</border>
+		
+		<girder>Data\Themes\Nature\Girder.png</girder>
+		<amGirder>Data\Graphics\amGirder.png</amGirder>
+		<ice></ice>
+	</terrain>
+	
+	<objects>
+		<object>Data\Themes\Nature\plant2.png</object>
+		<object>plant2, 3, 21, 163, 33, 15, 1, 60, 62, 87, 95</object>
+		<spray>Data\Themes\Brick\spray3.png</spray>
+		<spray>spray3, 2</spray>
+		
+		<flake>Data\Themes\Underwater\Flake.png</flake>
+		<flakes>20, 20, 150, 0, 5</flakes>
+		<SDFlake>Data\Graphics\SuddenDeath\SDFlake.png</SDFlake>
+		<sd-flakes>10, 4, 0, 15, 250</sd-flakes>
+		<flatten-flakes></flatten-flakes>
+		<snow></snow>
+	</objects>
+	
+	<sky>
+		<sky>Data\Themes\Nature\Sky.png</sky>
+		<sky>19, 18, 82</sky>
+		<skyL></skyL>
+		<skyR></skyR>
+		
+		<horizont>Data\Themes\Nature\horizont.png</horizont>
+		<horizontL></horizontL>
+		<horizontR></horizontR>
+		
+		<clouds>Data\Graphics\Clouds.png</clouds>
+		<clouds>9</clouds>
+		<SDClouds>Data\Graphics\SuddenDeath\SDClouds.png</SDClouds>
+		<sd-clouds>9</sd-clouds>
+		<flatten-clouds></flatten-clouds>
+	</sky>
+	
+	<water>
+		<blueWater>Data\Graphics\BlueWater.png</blueWater>
+		<water-top>84, 92, 147</water-top>
+		<water-bottom>52, 60, 125</water-bottom>
+		<water-opacity>128</water-opacity>
+		
+		<SDWater>Data\Graphics\SuddenDeath\SDWater.png</SDWater>
+		<sd-water-top>182, 144, 201</sd-water-top>
+		<sd-water-bottom>150, 112, 169</sd-water-bottom>
+		<sd-water-opacity>128</sd-water-opacity>
+	</water>
+	
+	<particles>
+		<chunk>Data\Themes\Nature\Chunk.png</chunk>
+		<dust>Data\Graphics\Dust.png</dust>
+		
+		<splash>Data\Themes\Brick\Splash.png</splash>
+		<droplet>Data\Themes\Brick\Droplet.png</droplet>
+		<SDSplash>Data\Graphics\SuddenDeath\SDSplash.png</SDSplash>
+		<SDDroplet>Data\Graphics\SuddenDeath\SDDroplet.png</SDDroplet>
+		
+		<snowball>Data\Graphics\Snowball.png</snowball>
+		<amSnowball>Data\Graphics\amSnowball.png</amSnowball>
+	</particles>
+	
+	
+	<other>
+		<title>Nature</title>
+		
+		<icon>Data\Themes\Nature\icon.png</icon>
+		<icon2x>Data\Themes\Nature\icon@2x.png</icon2x>
+		
+		<music>Nature.ogg</music>
+		<sd-music></sd-music>
+	</other>
+</settings>
